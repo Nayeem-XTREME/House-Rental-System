@@ -1,0 +1,254 @@
+#body{
+  height:500px;
+  margin-top:80px;
+}
+
+#pic{
+  height:42px;
+  margin-right:10px;
+}
+
+.dropdown{
+  text-align:center;
+}
+
+a.text-uppercase.dropdown-toggle{
+  padding:10px;
+}
+
+div.dropdown{
+  text-align:left;
+  float:left;
+}
+
+#post{
+  float:right;
+  width:200px;
+}
+
+.option{
+  width:250px;
+}
+
+#upper-sec{
+  margin-bottom:30px;
+}
+
+#maincata-head{
+  text-transform:uppercase;
+  color:#FFF;
+  padding-bottom:20px;
+}
+
+#top-main{
+}
+
+#nav-text{
+}
+
+#nav-drop{
+}
+
+.catagory-butt{
+  width:100%;
+  margin:0 auto;
+  margin-bottom:10px;
+  border-radius:3px;
+  font-size:18px;
+  text-transform:uppercase;
+}
+
+#main-container{
+  margin:0 auto;
+}
+
+.bucket{
+  padding:0;
+}
+
+.product-img{
+  width:100%;
+  background:url(../../assets/img/Building.jpg) no-repeat;
+  background-size:cover;
+  border-radius:5px;
+}
+
+#left-sec{
+  background-color:rgba(0, 0, 0, .5);
+  border-radius:5px;
+  height:500px;
+}
+
+#up-sec{
+  background-color:rgba(0, 0, 0, .5);
+}
+
+#product-img-col{
+}
+
+.product-detail{
+  padding:10px;
+  text-align:left;
+  background-color:rgba(0, 0, 0, 0);
+  color:#FFF;
+}
+
+.product-butt{
+  text-align:right;
+}
+
+.product-id{
+  text-align:right;
+  padding:17px;
+}
+
+.price-row{
+  margin-bottom:10px;
+}
+
+.price{
+  padding-top:8px;
+}
+
+.one-product{
+  background-color:rgba(0, 0, 0, .8);
+  padding-top:28px;
+  margin-left:0px;
+  margin-right:0px;
+  margin-bottom:15px;
+  border-radius:5px;
+}
+
+@media (max-width:1199px) {
+  .product-img{
+    height:282px;
+  }
+}
+
+@media (min-width:1200px) {
+  .product-img{
+    height:260px;
+  }
+}
+
+.hi{
+  height:2000px;
+}
+
+#main-main{
+  text-align:center;
+  background:url(../../assets/img/dubai-at-night-wallpaper.jpg) no-repeat;
+  background-size:cover;
+  margin-top:70px;
+  background-attachment:fixed;
+  height:4250px;
+  padding-top:70px;
+}
+
+.range-but{
+  margin-left:5px;
+  margin-right:5px;
+  width:55px;
+  margin-bottom:10px;
+}
+
+div.dropdown{
+  width:270px;
+}
+
+@media (max-width:991px) {
+  .option{
+    width:215px;
+  }
+}
+
+@media (max-width:991px) {
+  #post{
+    width:175px;
+  }
+}
+
+@media (max-width:991px) {
+  div.dropdown{
+    width:230px;
+  }
+}
+
+@media (max-width:767px) {
+  .option{
+    width:174px;
+  }
+}
+
+@media (max-width:767px) {
+  #post{
+    width:132px;
+  }
+}
+
+@media (max-width:767px) {
+  div.dropdown{
+    margin-bottom:10px;
+  }
+}
+
+@media (max-width:767px) {
+  #left-sec{
+    margin-bottom:20px;
+    height:280px;
+  }
+}
+
+@media (max-width:991px) {
+  #left-sec{
+    height:300px;
+    margin-bottom:20px;
+  }
+}
+
+#main-footer{
+  margin-top:0px;
+}
+
+@media (max-width:1199px) {
+  #main-main{
+    height:4500px;
+  }
+}
+
+@media (max-width:991px) {
+  #main-main{
+    height:9000px;
+  }
+}
+
+@media (max-width:767px) {
+  #main-main{
+    height:9875px;
+  }
+}
+
+#select-from-map{
+  font-weight:100;
+  color:#03bee7;
+  border:double;
+  margin-left:100px;
+  margin-right:100px;
+  padding:10px;
+}
+
+#post-footer{
+  margin-top:0px;
+}
+
+#main{
+  text-align:center;
+  padding:40px;
+  background:url(../../assets/img/dubai-at-night-wallpaper.jpg) no-repeat;
+  background-size:cover;
+  margin-top:70px;
+  background-attachment:fixed;
+  height:1200px;
+  padding-top:70px;
+}
+

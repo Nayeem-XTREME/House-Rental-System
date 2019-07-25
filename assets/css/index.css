@@ -1,0 +1,157 @@
+#main{
+  text-align:center;
+  padding:40px;
+  background:url(../../assets/img/dubai-at-night-wallpaper.jpg) no-repeat;
+  background-size:cover;
+  margin-top:70px;
+  background-attachment:fixed;
+  height:1200px;
+  padding-top:70px;
+}
+
+#main-main-main{
+  text-align:center;
+  padding:40px;
+  background:url(../../assets/img/dubai-at-night-wallpaper.jpg) no-repeat;
+  background-size:cover;
+  margin-top:70px;
+  background-attachment:fixed;
+  height:900px;
+  padding-top:70px;
+}
+
+#sec{
+  padding:40px;
+  margin:20px;
+  border-radius:20px;
+  background-color:rgba(0, 0, 0, .60);
+  color:#FFF;
+  margin-top:150px;
+  margin-bottom:150px;
+}
+
+#sec h1{
+  font-size:75px;
+  font-weight:100;
+  margin-bottom:30px;
+}
+
+#top{
+  background:#000000;
+  height:80px;
+}
+
+#sec p{
+  margin-top:30px;
+}
+
+@media (max-width:767px) {
+  #sec{
+    padding:20px;
+  }
+}
+
+@media (max-width:767px) {
+  #main{
+    padding:10px;
+    padding-top:60px;
+    padding-bottom:60px;
+  }
+}
+
+@media (max-width:767px) {
+  #sec h1{
+    font-size:45px;
+  }
+}
+
+#Hi{
+  margin-top:10px;
+}
+
+#learn{
+  padding:10px 45px;
+  font-size:20px;
+  font-family:sans-serif;
+  border-radius:5px;
+  background:#1b4d88;
+  text-decoration:none;
+  color:#FFF;
+  text-transform:uppercase;
+}
+
+.log a{
+  font-size:18px;
+  text-transform:uppercase;
+}
+
+a.navbar-brand.navbar-link{
+}
+
+.log a:hover{
+}
+
+#Row_jum{
+  text-align:center;
+  padding:60px;
+  margin-bottom:-80px;
+}
+
+.col-md-4 .main-jum{
+  margin:0px;
+  box-shadow:1px 1px 20px;
+  padding:30px;
+  border-radius:7px;
+  margin-bottom:20px;
+}
+
+#Row_jum #feature{
+  margin-bottom:90px;
+}
+
+#Row_jum{
+  background:url(../../assets/img/4k-city-night-wallpaper1.jpg) no-repeat;
+  background-attachment:fixed;
+  background-size:cover;
+}
+
+#Row_jum #feature{
+  color:#FFF;
+}
+
+.AAA{
+  display:inline-block;
+}
+
+input.form-control.AAA{
+  width:55%;
+  position:relative;
+}
+
+button.btn.btn-default.AAA{
+  position:absolute;
+  margin-left:-75px;
+  padding:5px 20px;
+  background-color:#0B5B8E;
+}
+
+#searchbar{
+  text-align:center;
+}
+
+@media (max-width:991px) {
+  input.form-control.AAA{
+    width:45%;
+  }
+}
+
+img{
+}
+
+footer{
+}
+
+img#searchicon{
+  max-height:31px;
+}
+

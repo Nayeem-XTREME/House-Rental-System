@@ -1,0 +1,34 @@
+h4.main.heading{
+  color:#69dbff;
+  float:left;
+  font-variant:small-caps;
+  font-family:Open Sans;
+  font-size:larger;
+}
+
+p.description{
+  float:left;
+  color:#FFF;
+}
+
+h4.price{
+  float:right;
+  color:#68bcf9;
+}
+
+h4.address{
+  float:left;
+  color:#56b7ee;
+  font-style:oblique;
+}
+
+p.address_detail{
+  float:left;
+  color:#FFF;
+}
+
+div#map{
+  height:650px;
+  border-radius:5px;
+}
+

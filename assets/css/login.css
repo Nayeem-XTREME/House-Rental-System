@@ -1,0 +1,15 @@
+#foot{
+  margin-top:-100px;
+}
+
+#main1{
+  text-align:center;
+  padding:40px;
+  background:url(../../assets/img/dubai-at-night-wallpaper.jpg) no-repeat;
+  background-size:cover;
+  margin-top:70px;
+  background-attachment:fixed;
+  height:850px;
+  padding-top:70px;
+}
+
